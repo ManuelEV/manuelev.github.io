@@ -16,7 +16,8 @@ Estudiante de Ingeniería Civil Informática de quinto año en la Universidad de
 
 - Git
 - Docker
-- REST
+- Servicios REST
+- Postman
 - Bases de datos relacionales y no relacionales
 
 ## Repositorios
