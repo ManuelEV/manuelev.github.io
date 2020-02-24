@@ -30,3 +30,7 @@ Estudiante de Ingeniería Civil Informática de quinto año en la Universidad de
 ![](img/mapu-rayen-preview1.gif)
 
 ![](img/mapu-rayen-preview2.gif)
+
+- [Reproductor multimedia Java](https://github.com/ManuelEV/ReproductorMultimedia) - Programa reproductor de audio y video realizado en Java.
+
+![](img/ReproductorMultimedia.jpg)
