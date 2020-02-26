@@ -34,4 +34,4 @@ Estudiante de Ingeniería Civil Informática de quinto año en la Universidad de
 
 - [Reproductor multimedia Java](https://github.com/ManuelEV/ReproductorMultimedia) - Programa reproductor de audio y video realizado en Java.
 
-![](img/ReproductorMultimedia.jpg)
+- [Análisis de vinos](https://github.com/ManuelEV/wine_analysis/blob/master/Análisis_de_vinos.ipynb) - Análisis de vinos a partir de un dataset, proyecto hecho en Python.
