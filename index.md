@@ -1,6 +1,6 @@
 # Manuel Alejandro Espinoza Valenzuela
 
-Estudiante de Ingeniería Civil Informática de quinto año en la Universidad de la Frontera.
+Estudiante de Ingeniería Civil Informática de sexto año en la Universidad de la Frontera.
 
 ## Conocimientos
 
@@ -8,7 +8,7 @@ Estudiante de Ingeniería Civil Informática de quinto año en la Universidad de
 
 ![](img/lenguajes.png)
 
-### Frameworks
+### Frameworks / tecnologías
 
 ![](img/frameworks.png)
 
@@ -31,6 +31,13 @@ Estudiante de Ingeniería Civil Informática de quinto año en la Universidad de
 ![](img/mapu-rayen-preview1.gif)
 
 ![](img/mapu-rayen-preview2.gif)
+
+
+- [E-Commerce](https://github.com/ManuelEV/Spring-Ecommerce) - Prototipo de comercio electrónico utilizando navegación por roles [Spring boot - Thymeleaf].
+
+![](img/eshop-admin.gif)
+
+![](img/eshop-customer.gif)
 
 - [Reproductor multimedia Java](https://github.com/ManuelEV/ReproductorMultimedia) - Programa reproductor de audio y video realizado en Java.
 
